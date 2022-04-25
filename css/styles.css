@@ -734,6 +734,7 @@ border: 1px solid var(--accent-color);
   position: relative;
   width: 448px;
   height: 40px;
+  padding-left: 42px;
   border: 1px solid rgba(33, 33, 33, 0.2);
   box-sizing: border-box;
   border-radius: 4px;
@@ -818,10 +819,6 @@ border: 1px solid var(--accent-color);
   background-image: url(../images/icon\ check.svg);
   background-size: contain;
   background-origin: border-box;
-}
-
-.form-link{
-
 }
 
 .agreement-link{
