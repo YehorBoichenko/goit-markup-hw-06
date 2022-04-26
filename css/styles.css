@@ -793,20 +793,25 @@ border: 1px solid var(--accent-color);
    color: rgba(117, 117, 117, 0.5);
 }
 
-.agreement{
+/* .agreement{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 30px;
+  
   width: 423px;
   height: 24px;
   text-align: center;
-}  
+}   */
 
 .agreement-label{
   display: flex;
-  text-align: center;
-  
+  align-items: center;
+  margin-bottom: 30px;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+
 }
 
 
