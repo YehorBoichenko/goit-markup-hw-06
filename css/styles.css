@@ -840,6 +840,7 @@ border: 1px solid var(--accent-color);
   padding: 10px 55px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  border-color: var(--accent-color);
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
